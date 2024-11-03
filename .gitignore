@@ -2,5 +2,6 @@
 /proyecto.project
 
 #La notacion para ignorar cualquier archivo es "nombre.tipo"
+debug.log
 #Para ignorar cualquier archivo con un cierto tipo de extension es: "*.tipo"
 #Y para ignorar todas las carpetas con un nombre es: "**/nombre"
