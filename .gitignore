@@ -1,0 +1,6 @@
+#Esta linea es para ignorar este archivo en especifico.
+/proyecto.project
+
+#La notacion para ignorar cualquier archivo es "nombre.tipo"
+#Para ignorar cualquier archivo con un cierto tipo de extension es: "*.tipo"
+#Y para ignorar todas las carpetas con un nombre es: "**/nombre"
