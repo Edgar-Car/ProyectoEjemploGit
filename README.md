@@ -1,6 +1,6 @@
 # Tarea1_introduccion a Git
 
-##Descripcion
+## Descripcion
 - Objetivo: Repasar los comandos básicos de Git y crear un repositorio en GitHub.
 - Git: Es un sistema de control de versiones distribuido que permite a los desarrolladores gestionar y realizar un seguimiento
 de los cambios en el código de un proyecto.
